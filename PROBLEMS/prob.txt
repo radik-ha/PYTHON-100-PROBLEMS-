@@ -1,0 +1,29 @@
+Write a program to print "Hello World".
+
+Write a program to add two numbers entered by the user.
+
+Write a program to find the largest of two numbers.
+
+Write a program to check whether a number is even or odd.
+
+Write a program to swap two numbers.
+
+Write a program to find the square of a number.
+
+Write a program to convert Celsius to Fahrenheit.
+
+Write a program to check whether a number is positive, negative, or zero.
+
+Write a program to calculate the area of a rectangle.
+
+Write a program to print numbers from 1 to 10 using a loop.
+
+Write a program to find the sum of numbers from 1 to n.
+
+Write a program to print the multiplication table of a number.
+
+Write a program to count the number of digits in a number.
+
+Write a program to reverse a number.
+
+Write a program to check whether a number is divisible by 5 and 11.
